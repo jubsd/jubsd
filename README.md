@@ -1,15 +1,15 @@
-# Flower Store
+# Kukkakauppa
 
-![Flower Store](tttt.jpg)
+![Kukkakauppa](tttt.jpg)
 
-## About Us
-We are passionate about flowers.
+## Meistä
+Kukat ovat meille kaikki kaikessa.
 
-## Products
-- Bouquets
-- Arrangements
-- Potted Plants
+## Tuotteet
+- Kimput
+- Järjestelyt
+- Ruukkukasvit
 
-## Contact Us
-- Email: contact@flowerstore.fi
-- Phone: 0408885555
+## Yhteystiedot
+- Sähköposti: yhteyttä@kukkakauppa.fi
+- Puh: 0408885555
